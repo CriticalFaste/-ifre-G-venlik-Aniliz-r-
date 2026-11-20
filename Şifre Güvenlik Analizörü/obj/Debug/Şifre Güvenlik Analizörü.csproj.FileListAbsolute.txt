@@ -1,0 +1,10 @@
+C:\Users\Enes\Desktop\Projeler\Şifre Güvenlik Analizörü\Şifre Güvenlik Analizörü\bin\Debug\Şifre Güvenlik Analizörü.exe.config
+C:\Users\Enes\Desktop\Projeler\Şifre Güvenlik Analizörü\Şifre Güvenlik Analizörü\bin\Debug\Şifre Güvenlik Analizörü.exe
+C:\Users\Enes\Desktop\Projeler\Şifre Güvenlik Analizörü\Şifre Güvenlik Analizörü\bin\Debug\Şifre Güvenlik Analizörü.pdb
+C:\Users\Enes\Desktop\Projeler\Şifre Güvenlik Analizörü\Şifre Güvenlik Analizörü\obj\Debug\Şifre Güvenlik Analizörü.csprojAssemblyReference.cache
+C:\Users\Enes\Desktop\Projeler\Şifre Güvenlik Analizörü\Şifre Güvenlik Analizörü\obj\Debug\Şifre_Güvenlik_Analizörü.Form1.resources
+C:\Users\Enes\Desktop\Projeler\Şifre Güvenlik Analizörü\Şifre Güvenlik Analizörü\obj\Debug\Şifre_Güvenlik_Analizörü.Properties.Resources.resources
+C:\Users\Enes\Desktop\Projeler\Şifre Güvenlik Analizörü\Şifre Güvenlik Analizörü\obj\Debug\Şifre Güvenlik Analizörü.csproj.GenerateResource.cache
+C:\Users\Enes\Desktop\Projeler\Şifre Güvenlik Analizörü\Şifre Güvenlik Analizörü\obj\Debug\Şifre Güvenlik Analizörü.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\Projeler\Şifre Güvenlik Analizörü\Şifre Güvenlik Analizörü\obj\Debug\Şifre Güvenlik Analizörü.exe
+C:\Users\Enes\Desktop\Projeler\Şifre Güvenlik Analizörü\Şifre Güvenlik Analizörü\obj\Debug\Şifre Güvenlik Analizörü.pdb
